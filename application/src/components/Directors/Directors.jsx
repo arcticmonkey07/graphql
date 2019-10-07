@@ -42,6 +42,6 @@ class Directors extends React.Component {
       </>
     );
   }
-};
+}
 
 export default withHocs(Directors);
