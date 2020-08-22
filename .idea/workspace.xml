@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbf6437f-4814-46bb-b69f-dc6948e9ead0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsDialog/DirectorsDialogHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/DirectorsDialog/mutations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesDialog/MoviesDialogHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/components/MoviesDialog/mutations.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/Directors/Directors.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/Directors/Directors.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/DirectorsDialog/DirectorsDialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/DirectorsDialog/DirectorsDialog.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/DirectorsForm/DirectorsForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/DirectorsForm/DirectorsForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/DirectorsForm/DirectorsFormHoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/DirectorsForm/DirectorsFormHoc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/DirectorsForm/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/DirectorsForm/mutations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/DirectorsSearch/DirectorsSearch.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/DirectorsSearch/DirectorsSearch.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/DirectorsTable/DirectorsTable.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/DirectorsTable/DirectorsTable.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/DirectorsTable/DirectorsTableHoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/DirectorsTable/DirectorsTableHoc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/DirectorsTable/queries.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/DirectorsTable/queries.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/MoviesDialog/MoviesDialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/MoviesDialog/MoviesDialog.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/MoviesForm/MoviesForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/MoviesForm/MoviesForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/MoviesForm/MoviesFormHoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/MoviesForm/MoviesFormHoc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/MoviesForm/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/MoviesForm/mutations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/MoviesForm/queries.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/MoviesForm/queries.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/MoviesSearch/MoviesSearch.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/MoviesSearch/MoviesSearch.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/MoviesTable/MoviesTable.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/MoviesTable/MoviesTable.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/MoviesTable/MoviesTableHoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/MoviesTable/MoviesTableHoc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/components/MoviesTable/queries.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/components/MoviesTable/queries.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/schema/schema.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/schema/schema.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,51 +15,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="queries.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/components/MoviesForm/queries.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MoviesFormHoc.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/components/MoviesForm/MoviesFormHoc.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MoviesDialogHoc.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/components/MoviesDialog/MoviesDialogHoc.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DirectorsFormHoc.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/src/components/DirectorsForm/DirectorsFormHoc.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DirectorsDialogHoc.js" pinned="false" current-in-tab="true">
+    <leaf>
+      <file leaf-file-name="DirectorsDialogHoc.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/src/components/DirectorsDialog/DirectorsDialogHoc.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state>
+              <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DirectorsDialog.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/src/components/DirectorsDialog/DirectorsDialog.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,6 +74,7 @@
         <option value="$PROJECT_DIR$/application/src/components/MoviesDialog/MoviesDialogHoc.js" />
         <option value="$PROJECT_DIR$/application/src/components/DirectorsForm/DirectorsFormHoc.js" />
         <option value="$PROJECT_DIR$/application/src/components/DirectorsDialog/DirectorsDialogHoc.js" />
+        <option value="G:/web/HTML Academy/html_01_events/03 Котогалерея/js/script.js" />
       </list>
     </option>
   </component>
@@ -144,8 +95,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="52" />
-    <option name="y" value="481" />
+    <option name="x" value="50" />
+    <option name="y" value="480" />
     <option name="width" value="1750" />
     <option name="height" value="500" />
   </component>
@@ -157,7 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,6 +155,14 @@
               <item name="application" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="DirectorsTable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="graphql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graphql" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="MoviesDialog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -236,6 +194,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,27 +241,29 @@
       <workItem from="1570449178896" duration="8489000" />
       <workItem from="1570461661769" duration="257000" />
       <workItem from="1570462063656" duration="540000" />
-      <workItem from="1570472477581" duration="1979000" />
+      <workItem from="1570472477581" duration="4144000" />
+      <workItem from="1570540765655" duration="58000" />
+      <workItem from="1570542773034" duration="650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34998000" />
+    <option name="totallyTimeSpent" value="37871000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="385" width="1400" height="400" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1890332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17057292" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -325,37 +286,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/models/director.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/schema/schema.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2600">
-          <caret line="104" column="28" lean-forward="true" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json" />
-    <entry file="file://$PROJECT_DIR$/package.json" />
-    <entry file="file://$PROJECT_DIR$/server/app.js" />
-    <entry file="file://$PROJECT_DIR$/package.json" />
-    <entry file="file://$PROJECT_DIR$/server/app.js" />
-    <entry file="file://$PROJECT_DIR$/package.json" />
-    <entry file="file://$PROJECT_DIR$/server/app.js" />
-    <entry file="file://$PROJECT_DIR$/../arcticrest/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../arcticrest/models/wines.model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="221" selection-start-line="3" selection-end-line="3" selection-end-column="221" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://G:/web/Мои Верстки/_старое/bigshop/build/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -428,13 +358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/src/components/DirectorsDialog/DirectorsDialog.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/src/components/Tabs/Tabs.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-673" />
@@ -458,9 +381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -478,13 +398,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/src/components/DirectorsForm/mutations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/schema/schema.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -499,20 +412,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/src/components/DirectorsTable/queries.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/src/components/MoviesTable/MoviesTableHoc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -520,9 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -530,9 +430,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="70" column="8" lean-forward="true" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -540,9 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="76" column="16" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="76" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -550,9 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -560,16 +451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/src/components/MoviesForm/queries.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -577,30 +458,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/components/MoviesDialog/MoviesDialogHoc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="225">
           <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/components/DirectorsForm/mutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/components/DirectorsTable/queries.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/components/MoviesForm/queries.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/components/DirectorsForm/DirectorsFormHoc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        <state relative-caret-position="123">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/web/HTML Academy/html_01_events/01 Замыкание! вар 1/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/web/HTML Academy/html_01_events/03 Котогалерея/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/web/HTML Academy/html_02_events/01 Отлавливаем клик по коллекции элементов/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/web/HTML Academy/html_02_events/02 Поиск по template/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/web/HTML Academy/html_02_events/03 Клонирование глубокое и нет/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/web/! JavaScript/getRandomColor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/web/! JavaScript/перемешивание элементов/jquery.shuffle.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/web/! JavaScript/Перебор массивов/сортировка/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/web/! JavaScript/Перебор массивов/forEach/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/web/! JavaScript/Перебор массивов/filter/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/web/HTML Academy/html_02_events/04 Список дел final/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/components/DirectorsDialog/DirectorsDialogHoc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state>
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/components/DirectorsDialog/DirectorsDialog.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
